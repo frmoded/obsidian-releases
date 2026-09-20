@@ -54731,5 +54731,12 @@
     "author": "Emir Kaan Ozver",
     "description": "Color File Explorer folders and files with dynamic, stable, preset, or custom palettes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ekozf/folder-palette"
+  },
+  {
+    "id": "forge",
+    "name": "Forge",
+    "author": "Oded Fuhrmann",
+    "description": "Run Forge snippet recipes in your vault with a bundled engine.",
+    "repo": "frmoded/forge-client-obsidian"
   }
 ]
